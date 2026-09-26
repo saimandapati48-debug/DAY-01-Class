@@ -9,3 +9,4 @@ CloudShell allows users to run AWS CLI commands without installing or configurin
 Discussed how CloudShell automatically uses the AWS account and IAM permissions of the logged-in user.
 Tasks:
 Reviewed commonly used AWS CLI commands for managing EC2 like launching , start, stop and terminate an instance.
+And also discussed some commands related to s3
