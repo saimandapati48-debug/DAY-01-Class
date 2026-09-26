@@ -1,0 +1,15 @@
+Discussion Points:
+1.AWS cli configuration platform.(on premises servers and aws  servers)
+2.Scripts to be executed on cli like bash shell, python shell, ansible, terraform, cloud formation.
+3.Cloud shell (Aws console cli).
+ 
+Key discussions:
+Discussed AWS CloudShell as a browser-based shell environment provided by AWS.
+
+
+CloudShell allows users to run AWS CLI commands without installing or configuring the AWS CLI locally.
+
+
+Discussed how CloudShell automatically uses the AWS account and IAM permissions of the logged-in user.
+Tasks:
+Reviewed commonly used AWS CLI commands for managing EC2 like launching , start, stop and terminate an instance.
